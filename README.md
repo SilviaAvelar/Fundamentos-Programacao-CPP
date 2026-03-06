@@ -32,4 +32,8 @@ Um sistema de pedidos interativo que demonstra o uso de funções para manter um
 - **Eficiência de Memória:** Entendimento da diferença técnica entre valor e endereço de memória.
 
 ---
+https://github.com/user-attachments/assets/21650aea-91df-418b-8dba-6ccbfcf5011f
+
+
+---
 📫 **Vamos nos conectar?** [(https://www.linkedin.com/in/silvia-avelar/)]
