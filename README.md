@@ -32,4 +32,4 @@ Um sistema de pedidos interativo que demonstra o uso de funções para manter um
 - **Eficiência de Memória:** Entendimento da diferença técnica entre valor e endereço de memória.
 
 ---
-📫 **Vamos nos conectar?** [[Link para seu LinkedIn](https://www.linkedin.com/in/silvia-avelar/)]
+📫 **Vamos nos conectar?** [(https://www.linkedin.com/in/silvia-avelar/)]
